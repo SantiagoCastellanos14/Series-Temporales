@@ -1,0 +1,5 @@
+AirPollutionSeoul/*.json filter=lfs diff=lfs merge=lfs -text
+Demanda_elec_victoria/*.csv filter=lfs diff=lfs merge=lfs -text
+csvs_per_year/**/*.csv filter=lfs diff=lfs merge=lfs -text
+csvs_per_year.zip filter=lfs diff=lfs merge=lfs -text
+AirPollutionSeoul/*.csv filter=lfs diff=lfs merge=lfs -text
